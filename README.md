@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="AI-Powered Text Summarization API" width="100%">
+</p>
 # 🚀 AI-Powered Text Summarization API
 
 ## 📖 Project Overview
