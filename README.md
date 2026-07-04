@@ -1,6 +1,17 @@
 <p align="center">
   <img src="banner.png" alt="AI-Powered Text Summarization API" width="100%">
 </p>
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Google Gemini](https://img.shields.io/badge/Gemini-AI-blueviolet?style=for-the-badge&logo=google)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge)
+
+</p>
+
 # 🚀 AI-Powered Text Summarization API
 
 ## 📖 Project Overview
